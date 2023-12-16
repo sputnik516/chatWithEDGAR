@@ -1,0 +1,11 @@
+/archive/
+/data/
+/wandb/
+/keys.py
+/.idea/runConfigurations/debug_stremlit_app_py.xml
+/.idea/langchain_test.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
